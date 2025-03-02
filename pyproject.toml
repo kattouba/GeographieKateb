@@ -23,6 +23,8 @@ test_sources = [
 icon = "icons/icon"
 
 requires = [
+    "http.client",  # Pour les requêtes HTTP
+    "html.parser",    # Pour le parsing HTML
 ]
 
 test_requires = [

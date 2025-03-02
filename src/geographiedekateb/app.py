@@ -1,3 +1,5 @@
+import http.client
+import json
 from os.path import dirname, join
 import random
 import os
@@ -17,8 +19,71 @@ class InfoHTMLParser(HTMLParser):
 
 class GeographieDeKateb(toga.App):
     def startup(self):
+        # Initialiser la fenêtre principale
+        self.main_window = toga.MainWindow(title="Géographie de Kateb")
+
+        # Créer l'interface pour demander le nom du joueur
+        self.create_name_input_interface()
+
+        # Afficher la fenêtre principale
+        self.main_window.show()
+
+    def create_name_input_interface(self):
+        # Créer un champ de saisie pour le nom du joueur
+        self.name_input = toga.TextInput(placeholder="Entrez votre nom", style=Pack(flex=1, padding=5))
+
+        # Créer un bouton pour valider le nom
+        self.name_button = toga.Button("Valider", on_press=self.on_name_submit, style=Pack(padding=5))
+
+        # Créer un conteneur pour le champ de saisie et le bouton
+        name_box = toga.Box(style=Pack(direction=COLUMN, padding=10))
+        name_box.add(self.name_input)
+        name_box.add(self.name_button)
+
+        # Ajouter le conteneur à la fenêtre principale
+        self.main_window.content = name_box
+
+    def on_name_submit(self, widget):
+        # Récupérer le nom du joueur
+        self.player_name = self.name_input.value
+        if not self.player_name:
+            self.player_name = "Joueur"  # Nom par défaut si aucun nom n'est entré
+
+        # Afficher l'interface de sélection du continent
+        self.create_continent_selection_interface()
+
+    def create_continent_selection_interface(self):
+        # Créer une interface pour sélectionner le continent
+        continent_box = toga.Box(style=Pack(direction=COLUMN, padding=10))
+
+        # Titre
+        title_label = toga.Label("Choisissez un continent ou le monde entier :", style=Pack(padding=(0, 5), text_align=CENTER))
+        continent_box.add(title_label)
+
+        # Boutons pour les continents
+        continents = ["Afrique", "Amérique", "Asie", "Europe", "Océanie", "Monde entier"]
+        for continent in continents:
+            button = toga.Button(continent, on_press=self.on_continent_select, style=Pack(padding=5, flex=1))
+            continent_box.add(button)
+
+        # Ajouter le conteneur à la fenêtre principale
+        self.main_window.content = continent_box
+
+    def on_continent_select(self, widget):
+        # Récupérer le continent sélectionné
+        self.selected_continent = widget.text
+
+        # Démarrer le jeu après avoir sélectionné le continent
+        self.start_game()
+
+    def start_game(self):
         # Charger les données
         self.data = self.load_data()
+
+        # Filtrer les données en fonction du continent sélectionné
+        if self.selected_continent != "Monde entier":
+            self.data = [entry for entry in self.data if entry.get("continent") == self.selected_continent]
+
         self.current_entry = None
         self.score = 0
         self.question_count = 0
@@ -28,10 +93,8 @@ class GeographieDeKateb(toga.App):
         self.main_box = self.create_main_box()
         self.info_box = self.create_info_box()
 
-        # Ajouter le conteneur principal initialement
-        self.main_window = toga.MainWindow(title="Géographie de Kateb")
+        # Ajouter le conteneur principal à la fenêtre
         self.main_window.content = self.main_box
-        self.main_window.show()
 
         # Initialiser le SoundPool pour les sons
         self.sound_pool = SoundPool.Builder().setMaxStreams(1).build()
@@ -43,11 +106,31 @@ class GeographieDeKateb(toga.App):
 
     def create_main_box(self):
         main_box = toga.Box(style=Pack(direction=COLUMN, padding=10))
-        self.flag_label = toga.ImageView(style=Pack(height=200, alignment=CENTER, padding=(0, 5)))
+
+        # Créer une Box pour contenir le drapeau
+        flag_box = toga.Box(style=Pack(
+            height=200,  # Hauteur fixe pour la Box
+            width=300,   # Largeur fixe pour la Box
+            alignment=CENTER,  # Centrer le contenu
+            padding=(0, 5),
+        ))
+
+        # Ajouter l'image du drapeau à la Box
+        self.flag_label = toga.ImageView(style=Pack(
+            flex=1,  # Remplir l'espace disponible dans la Box
+            width=300,  # Largeur maximale du drapeau
+            height=200,  # Hauteur maximale du drapeau
+        ))
+        flag_box.add(self.flag_label)
+
+        # Ajouter la Box du drapeau à la Box principale
+        main_box.add(flag_box)
+
+        # Ajouter le label pour les résultats
         self.result_label = toga.Label("", style=Pack(padding=(0, 5), text_align=CENTER))
-        main_box.add(self.flag_label)
         main_box.add(self.result_label)
 
+        # Ajouter les boutons pour les options
         self.buttons = []
         for _ in range(4):
             button = toga.Button("Option", on_press=self.check_country_answer, style=Pack(padding=5, flex=1))
@@ -67,18 +150,42 @@ class GeographieDeKateb(toga.App):
 
         return info_box
 
+    def create_end_game_interface(self):
+        # Créer une nouvelle interface pour la fin du jeu
+        end_game_box = toga.Box(style=Pack(direction=COLUMN, padding=10))
+
+        # Afficher le score final
+        score_label = toga.Label(f"Quiz terminé ! Votre score final est de {self.score}/20.", style=Pack(padding=(0, 5), text_align=CENTER))
+        end_game_box.add(score_label)
+
+        # Bouton pour afficher le classement (fusionné)
+        show_leaderboard_button = toga.Button("Afficher le classement", on_press=self.send_score_and_show_leaderboard, style=Pack(padding=5))
+        end_game_box.add(show_leaderboard_button)
+
+        # Bouton pour rejouer
+        replay_button = toga.Button("Rejouer", on_press=self.restart_game, style=Pack(padding=5))
+        end_game_box.add(replay_button)
+
+        return end_game_box
+
+    def restart_game(self, widget):
+        # Revenir à l'écran de saisie du nom
+        self.create_name_input_interface()
+        self.main_window.content = self.create_name_input_interface()
+
     def load_data(self):
         data = []
         with open(join(dirname(__file__), "resources/countries_data.txt"), "r", encoding="utf-8") as f:
             for line in f:
                 parts = line.strip().split(", ")
-                if len(parts) >= 5:
+                if len(parts) >= 6:  # Assurez-vous que le fichier contient le continent
                     data.append({
                         "flag": parts[0],
                         "map": parts[1],
                         "country": parts[2],
                         "capital": parts[3],
-                        "info": parts[4]
+                        "continent": parts[4],  # Ajout du continent
+                        "info": parts[5]
                     })
         return data
 
@@ -90,10 +197,9 @@ class GeographieDeKateb(toga.App):
 
     def show_flag_question(self, widget=None):
         if self.question_count >= 10:
-            self.main_window.info_dialog(
-                "Quiz terminé", f"Votre score final est de {self.score}/20 !"
-            )
-            self.exit()
+            # Basculer vers l'interface de fin de jeu
+            end_game_box = self.create_end_game_interface()
+            self.main_window.content = end_game_box
             return
 
         self.question_count += 1
@@ -168,6 +274,56 @@ class GeographieDeKateb(toga.App):
 
         self.main_window.content = self.info_box
 
+    def send_score_and_show_leaderboard(self, widget):
+        """
+        Envoie le score du joueur, puis récupère et affiche le classement.
+        """
+        # Connexion au serveur
+        conn = http.client.HTTPConnection("studiokatebetpapa.mooo.com")
+
+        # Données à envoyer
+        data = {
+            "name": self.player_name,
+            "score": self.score
+        }
+        data_json = json.dumps(data).encode('utf-8')
+
+        # En-têtes
+        headers = {
+            'Content-Type': 'application/json',
+            'Accept': 'application/json',
+            'X-Requested-With': 'XMLHttpRequest'  # En-tête pour indiquer une requête AJAX
+        }
+
+        # Envoyer la requête POST pour ajouter le score
+        try:
+            conn.request("POST", "/Geographie/api/add_score.php", body=data_json, headers=headers)
+            response = conn.getresponse()
+            response_data = response.read().decode('utf-8')
+            print("Réponse de l'API (ajout du score) :", response_data)
+
+            # Récupérer le classement après avoir envoyé le score
+            conn.request("GET", "/Geographie/api/get_scores.php", headers=headers)
+            response = conn.getresponse()
+            response_data = response.read().decode('utf-8')
+            leaderboard = json.loads(response_data)
+
+            # Afficher le classement dans une boîte de dialogue
+            leaderboard_text = "Classement des meilleurs scores :\n"
+            for i, entry in enumerate(leaderboard, start=1):
+                name = entry["name"]
+                score = entry["score"]
+                if name == self.player_name:
+                    leaderboard_text += f"{i}. {name}: {score} (Vous)\n"
+                else:
+                    leaderboard_text += f"{i}. {name}: {score}\n"
+
+            self.main_window.info_dialog("Classement", leaderboard_text)
+        except Exception as e:
+            print("Erreur lors de l'envoi du score ou de la récupération du classement :", e)
+            self.main_window.info_dialog("Erreur", f"Erreur lors de l'envoi du score ou de la récupération du classement : {e}")
+        finally:
+            conn.close()
 
 def main():
     return GeographieDeKateb()

@@ -1,249 +1,249 @@
-Géorgie_du_Sud-et-les_Îles_Sandwich_du_Sud.png, Géorgie_du_Sud-et-les_Îles_Sandwich_du_Sud_map.png, Géorgie du Sud-et-les Îles Sandwich du Sud, King Edward Point, Géorgie_du_Sud-et-les_Îles_Sandwich_du_Sud_info.html
-Grenade.png, Grenade_map.png, Grenade, St. George's, Grenade_info.html
-Suisse.png, Suisse_map.png, Suisse, Bern, Suisse_info.html
-Sierra_Leone.png, Sierra_Leone_map.png, Sierra Leone, Freetown, Sierra_Leone_info.html
-Hongrie.png, Hongrie_map.png, Hongrie, Budapest, Hongrie_info.html
-Taïwan.png, Taïwan_map.png, Taïwan, Taipei, Taïwan_info.html
-Wallis-et-Futuna.png, Wallis-et-Futuna_map.png, Wallis-et-Futuna, Mata-Utu, Wallis-et-Futuna_info.html
-Barbade.png, Barbade_map.png, Barbade, Bridgetown, Barbade_info.html
-Îles_Pitcairn.png, Îles_Pitcairn_map.png, Îles Pitcairn, Adamstown, Îles_Pitcairn_info.html
-Côte_d'Ivoire.png, Côte_d'Ivoire_map.png, Côte d'Ivoire, Yamoussoukro, Côte_d'Ivoire_info.html
-Tunisie.png, Tunisie_map.png, Tunisie, Tunis, Tunisie_info.html
-Italie.png, Italie_map.png, Italie, Rome, Italie_info.html
-Bénin.png, Bénin_map.png, Bénin, Porto-Novo, Bénin_info.html
-Indonésie.png, Indonésie_map.png, Indonésie, Jakarta, Indonésie_info.html
-Îles_du_Cap-Vert.png, Îles_du_Cap-Vert_map.png, Îles du Cap-Vert, Praia, Îles_du_Cap-Vert_info.html
-Saint-Christophe-et-Niévès.png, Saint-Christophe-et-Niévès_map.png, Saint-Christophe-et-Niévès, Basseterre, Saint-Christophe-et-Niévès_info.html
-Laos.png, Laos_map.png, Laos, Vientiane, Laos_info.html
-Pays-Bas_caribéens.png, Pays-Bas_caribéens_map.png, Pays-Bas caribéens, Kralendijk, Pays-Bas_caribéens_info.html
-Ouganda.png, Ouganda_map.png, Ouganda, Kampala, Ouganda_info.html
-Andorre.png, Andorre_map.png, Andorre, Andorra la Vella, Andorre_info.html
-Burundi.png, Burundi_map.png, Burundi, Gitega, Burundi_info.html
-Afrique_du_Sud.png, Afrique_du_Sud_map.png, Afrique du Sud, Pretoria, Afrique_du_Sud_info.html
-France.png, France_map.png, France, Paris, France_info.html
-Libye.png, Libye_map.png, Libye, Tripoli, Libye_info.html
-Mexique.png, Mexique_map.png, Mexique, Mexico City, Mexique_info.html
-Gabon.png, Gabon_map.png, Gabon, Libreville, Gabon_info.html
-Îles_Mariannes_du_Nord.png, Îles_Mariannes_du_Nord_map.png, Îles Mariannes du Nord, Saipan, Îles_Mariannes_du_Nord_info.html
-Macédoine_du_Nord.png, Macédoine_du_Nord_map.png, Macédoine du Nord, Skopje, Macédoine_du_Nord_info.html
-Chine.png, Chine_map.png, Chine, Beijing, Chine_info.html
-Yémen.png, Yémen_map.png, Yémen, Sana'a, Yémen_info.html
-Saint-Barthélemy.png, Saint-Barthélemy_map.png, Saint-Barthélemy, Gustavia, Saint-Barthélemy_info.html
-Guernesey.png, Guernesey_map.png, Guernesey, St. Peter Port, Guernesey_info.html
-Îles_Salomon.png, Îles_Salomon_map.png, Îles Salomon, Honiara, Îles_Salomon_info.html
-Svalbard_et_Jan_Mayen.png, Svalbard_et_Jan_Mayen_map.png, Svalbard et Jan Mayen, Longyearbyen, Svalbard_et_Jan_Mayen_info.html
-Îles_Féroé.png, Îles_Féroé_map.png, Îles Féroé, Tórshavn, Îles_Féroé_info.html
-Ouzbékistan.png, Ouzbékistan_map.png, Ouzbékistan, Tashkent, Ouzbékistan_info.html
-Égypte.png, Égypte_map.png, Égypte, Cairo, Égypte_info.html
-Sénégal.png, Sénégal_map.png, Sénégal, Dakar, Sénégal_info.html
-Sri_Lanka.png, Sri_Lanka_map.png, Sri Lanka, Sri Jayawardenepura Kotte, Sri_Lanka_info.html
-Palestine.png, Palestine_map.png, Palestine, Ramallah, Palestine_info.html
-Bangladesh.png, Bangladesh_map.png, Bangladesh, Dhaka, Bangladesh_info.html
-Pérou.png, Pérou_map.png, Pérou, Lima, Pérou_info.html
-Singapour.png, Singapour_map.png, Singapour, Singapore, Singapour_info.html
-Turquie.png, Turquie_map.png, Turquie, Ankara, Turquie_info.html
-Afghanistan.png, Afghanistan_map.png, Afghanistan, Kabul, Afghanistan_info.html
-Aruba.png, Aruba_map.png, Aruba, Oranjestad, Aruba_info.html
-Îles_Cook.png, Îles_Cook_map.png, Îles Cook, Avarua, Îles_Cook_info.html
-Royaume-Uni.png, Royaume-Uni_map.png, Royaume-Uni, London, Royaume-Uni_info.html
-Zambie.png, Zambie_map.png, Zambie, Lusaka, Zambie_info.html
-Finlande.png, Finlande_map.png, Finlande, Helsinki, Finlande_info.html
-Niger.png, Niger_map.png, Niger, Niamey, Niger_info.html
-Île_Christmas.png, Île_Christmas_map.png, Île Christmas, Flying Fish Cove, Île_Christmas_info.html
-Tokelau.png, Tokelau_map.png, Tokelau, Fakaofo, Tokelau_info.html
-Guinée-Bissau.png, Guinée-Bissau_map.png, Guinée-Bissau, Bissau, Guinée-Bissau_info.html
-Azerbaïdjan.png, Azerbaïdjan_map.png, Azerbaïdjan, Baku, Azerbaïdjan_info.html
-Réunion.png, Réunion_map.png, Réunion, Saint-Denis, Réunion_info.html
-Djibouti.png, Djibouti_map.png, Djibouti, Djibouti, Djibouti_info.html
-Corée_du_Nord.png, Corée_du_Nord_map.png, Corée du Nord, Pyongyang, Corée_du_Nord_info.html
-Île_Maurice.png, Île_Maurice_map.png, Île Maurice, Port Louis, Île_Maurice_info.html
-Montserrat.png, Montserrat_map.png, Montserrat, Plymouth, Montserrat_info.html
-Îles_Vierges_des_États-Unis.png, Îles_Vierges_des_États-Unis_map.png, Îles Vierges des États-Unis, Charlotte Amalie, Îles_Vierges_des_États-Unis_info.html
-Colombie.png, Colombie_map.png, Colombie, Bogotá, Colombie_info.html
-Grèce.png, Grèce_map.png, Grèce, Athens, Grèce_info.html
-Croatie.png, Croatie_map.png, Croatie, Zagreb, Croatie_info.html
-Maroc.png, Maroc_map.png, Maroc, Rabat, Maroc_info.html
-Algérie.png, Algérie_map.png, Algérie, Algiers, Algérie_info.html
-Antarctique.png, Antarctique_map.png, Antarctique, Inconnue, Antarctique_info.html
-Pays-Bas.png, Pays-Bas_map.png, Pays-Bas, Amsterdam, Pays-Bas_info.html
-Soudan.png, Soudan_map.png, Soudan, Khartoum, Soudan_info.html
-Fidji.png, Fidji_map.png, Fidji, Suva, Fidji_info.html
-Liechtenstein.png, Liechtenstein_map.png, Liechtenstein, Vaduz, Liechtenstein_info.html
-Népal.png, Népal_map.png, Népal, Kathmandu, Népal_info.html
-Porto_Rico.png, Porto_Rico_map.png, Porto Rico, San Juan, Porto_Rico_info.html
-Géorgie.png, Géorgie_map.png, Géorgie, Tbilisi, Géorgie_info.html
-Pakistan.png, Pakistan_map.png, Pakistan, Islamabad, Pakistan_info.html
-Monaco.png, Monaco_map.png, Monaco, Monaco, Monaco_info.html
-Botswana.png, Botswana_map.png, Botswana, Gaborone, Botswana_info.html
-Liban.png, Liban_map.png, Liban, Beirut, Liban_info.html
-Papouasie-Nouvelle-Guinée.png, Papouasie-Nouvelle-Guinée_map.png, Papouasie-Nouvelle-Guinée, Port Moresby, Papouasie-Nouvelle-Guinée_info.html
-Mayotte.png, Mayotte_map.png, Mayotte, Mamoudzou, Mayotte_info.html
-République_dominicaine.png, République_dominicaine_map.png, République dominicaine, Santo Domingo, République_dominicaine_info.html
-Île_Norfolk.png, Île_Norfolk_map.png, Île Norfolk, Kingston, Île_Norfolk_info.html
-Île_Bouvet.png, Île_Bouvet_map.png, Île Bouvet, Inconnue, Île_Bouvet_info.html
-Qatar.png, Qatar_map.png, Qatar, Doha, Qatar_info.html
-Madagascar.png, Madagascar_map.png, Madagascar, Antananarivo, Madagascar_info.html
-Inde.png, Inde_map.png, Inde, New Delhi, Inde_info.html
-Syrie.png, Syrie_map.png, Syrie, Damascus, Syrie_info.html
-Monténégro.png, Monténégro_map.png, Monténégro, Podgorica, Monténégro_info.html
-Swaziland.png, Swaziland_map.png, Swaziland, Mbabane, Swaziland_info.html
-Paraguay.png, Paraguay_map.png, Paraguay, Asunción, Paraguay_info.html
-Salvador.png, Salvador_map.png, Salvador, San Salvador, Salvador_info.html
-Ukraine.png, Ukraine_map.png, Ukraine, Kyiv, Ukraine_info.html
-Île_de_Man.png, Île_de_Man_map.png, Île de Man, Douglas, Île_de_Man_info.html
-Namibie.png, Namibie_map.png, Namibie, Windhoek, Namibie_info.html
-Émirats_arabes_unis.png, Émirats_arabes_unis_map.png, Émirats arabes unis, Abu Dhabi, Émirats_arabes_unis_info.html
-Bulgarie.png, Bulgarie_map.png, Bulgarie, Sofia, Bulgarie_info.html
-Groenland.png, Groenland_map.png, Groenland, Nuuk, Groenland_info.html
-Allemagne.png, Allemagne_map.png, Allemagne, Berlin, Allemagne_info.html
-Cambodge.png, Cambodge_map.png, Cambodge, Phnom Penh, Cambodge_info.html
-Irak.png, Irak_map.png, Irak, Baghdad, Irak_info.html
-Terres_australes_et_antarctiques_françaises.png, Terres_australes_et_antarctiques_françaises_map.png, Terres australes et antarctiques françaises, Port-aux-Français, Terres_australes_et_antarctiques_françaises_info.html
-Suède.png, Suède_map.png, Suède, Stockholm, Suède_info.html
-Cuba.png, Cuba_map.png, Cuba, Havana, Cuba_info.html
-Kirghizistan.png, Kirghizistan_map.png, Kirghizistan, Bishkek, Kirghizistan_info.html
-Russie.png, Russie_map.png, Russie, Moscow, Russie_info.html
-Malaisie.png, Malaisie_map.png, Malaisie, Kuala Lumpur, Malaisie_info.html
-São_Tomé_et_Príncipe.png, São_Tomé_et_Príncipe_map.png, São Tomé et Príncipe, São Tomé, São_Tomé_et_Príncipe_info.html
-Chypre.png, Chypre_map.png, Chypre, Nicosia, Chypre_info.html
-Canada.png, Canada_map.png, Canada, Ottawa, Canada_info.html
-Malawi.png, Malawi_map.png, Malawi, Lilongwe, Malawi_info.html
-Arabie_Saoudite.png, Arabie_Saoudite_map.png, Arabie Saoudite, Riyadh, Arabie_Saoudite_info.html
-Bosnie-Herzégovine.png, Bosnie-Herzégovine_map.png, Bosnie-Herzégovine, Sarajevo, Bosnie-Herzégovine_info.html
-Éthiopie.png, Éthiopie_map.png, Éthiopie, Addis Ababa, Éthiopie_info.html
-Espagne.png, Espagne_map.png, Espagne, Madrid, Espagne_info.html
-Slovénie.png, Slovénie_map.png, Slovénie, Ljubljana, Slovénie_info.html
-Oman.png, Oman_map.png, Oman, Muscat, Oman_info.html
-Saint-Pierre-et-Miquelon.png, Saint-Pierre-et-Miquelon_map.png, Saint-Pierre-et-Miquelon, Saint-Pierre, Saint-Pierre-et-Miquelon_info.html
-Macao.png, Macao_map.png, Macao, Inconnue, Macao_info.html
-Saint-Marin.png, Saint-Marin_map.png, Saint-Marin, City of San Marino, Saint-Marin_info.html
-Lesotho.png, Lesotho_map.png, Lesotho, Maseru, Lesotho_info.html
-Îles_Marshall.png, Îles_Marshall_map.png, Îles Marshall, Majuro, Îles_Marshall_info.html
-Saint-Martin.png, Saint-Martin_map.png, Saint-Martin, Philipsburg, Saint-Martin_info.html
-Islande.png, Islande_map.png, Islande, Reykjavik, Islande_info.html
-Luxembourg.png, Luxembourg_map.png, Luxembourg, Luxembourg, Luxembourg_info.html
-Argentine.png, Argentine_map.png, Argentine, Buenos Aires, Argentine_info.html
-Îles_Turques-et-Caïques.png, Îles_Turques-et-Caïques_map.png, Îles Turques-et-Caïques, Cockburn Town, Îles_Turques-et-Caïques_info.html
-Nauru.png, Nauru_map.png, Nauru, Yaren, Nauru_info.html
-Îles_Cocos.png, Îles_Cocos_map.png, Îles Cocos, West Island, Îles_Cocos_info.html
-Sahara_Occidental.png, Sahara_Occidental_map.png, Sahara Occidental, El Aaiún, Sahara_Occidental_info.html
-Dominique.png, Dominique_map.png, Dominique, Roseau, Dominique_info.html
-Costa_Rica.png, Costa_Rica_map.png, Costa Rica, San José, Costa_Rica_info.html
-Australie.png, Australie_map.png, Australie, Canberra, Australie_info.html
-Thaïlande.png, Thaïlande_map.png, Thaïlande, Bangkok, Thaïlande_info.html
-Haïti.png, Haïti_map.png, Haïti, Port-au-Prince, Haïti_info.html
-Tuvalu.png, Tuvalu_map.png, Tuvalu, Funafuti, Tuvalu_info.html
-Honduras.png, Honduras_map.png, Honduras, Tegucigalpa, Honduras_info.html
-Guinée_équatoriale.png, Guinée_équatoriale_map.png, Guinée équatoriale, Malabo, Guinée_équatoriale_info.html
-Sainte-Lucie.png, Sainte-Lucie_map.png, Sainte-Lucie, Castries, Sainte-Lucie_info.html
-Polynésie_française.png, Polynésie_française_map.png, Polynésie française, Papeetē, Polynésie_française_info.html
-Biélorussie.png, Biélorussie_map.png, Biélorussie, Minsk, Biélorussie_info.html
-Lettonie.png, Lettonie_map.png, Lettonie, Riga, Lettonie_info.html
-Palaos_(Palau).png, Palaos_(Palau)_map.png, Palaos (Palau), Ngerulmud, Palaos_(Palau)_info.html
-Guadeloupe.png, Guadeloupe_map.png, Guadeloupe, Basse-Terre, Guadeloupe_info.html
-Philippines.png, Philippines_map.png, Philippines, Manila, Philippines_info.html
-Gibraltar.png, Gibraltar_map.png, Gibraltar, Gibraltar, Gibraltar_info.html
-Danemark.png, Danemark_map.png, Danemark, Copenhagen, Danemark_info.html
-Cameroun.png, Cameroun_map.png, Cameroun, Yaoundé, Cameroun_info.html
-Guinée.png, Guinée_map.png, Guinée, Conakry, Guinée_info.html
-Bahreïn.png, Bahreïn_map.png, Bahreïn, Manama, Bahreïn_info.html
-Surinam.png, Surinam_map.png, Surinam, Paramaribo, Surinam_info.html
-Congo_(Rép._dém.).png, Congo_(Rép._dém.)_map.png, Congo (Rép. dém.), Kinshasa, Congo_(Rép._dém.)_info.html
-Somalie.png, Somalie_map.png, Somalie, Mogadishu, Somalie_info.html
-Tchéquie.png, Tchéquie_map.png, Tchéquie, Prague, Tchéquie_info.html
-Nouvelle-Calédonie.png, Nouvelle-Calédonie_map.png, Nouvelle-Calédonie, Nouméa, Nouvelle-Calédonie_info.html
-Vanuatu.png, Vanuatu_map.png, Vanuatu, Port Vila, Vanuatu_info.html
-Sainte-Hélène,_Ascension_et_Tristan_da_Cunha.png, Sainte-Hélène,_Ascension_et_Tristan_da_Cunha_map.png, Sainte-Hélène, Ascension et Tristan da Cunha, Jamestown, Sainte-Hélène_info.html
-Togo.png, Togo_map.png, Togo, Lomé, Togo_info.html
-Îles_Vierges_britanniques.png, Îles_Vierges_britanniques_map.png, Îles Vierges britanniques, Road Town, Îles_Vierges_britanniques_info.html
-Kenya.png, Kenya_map.png, Kenya, Nairobi, Kenya_info.html
-Niue.png, Niue_map.png, Niue, Alofi, Niue_info.html
-Îles_Heard-et-MacDonald.png, Îles_Heard-et-MacDonald_map.png, Îles Heard-et-MacDonald, Inconnue, Îles_Heard-et-MacDonald_info.html
-Rwanda.png, Rwanda_map.png, Rwanda, Kigali, Rwanda_info.html
-Estonie.png, Estonie_map.png, Estonie, Tallinn, Estonie_info.html
-Roumanie.png, Roumanie_map.png, Roumanie, Bucharest, Roumanie_info.html
-Trinité-et-Tobago.png, Trinité-et-Tobago_map.png, Trinité-et-Tobago, Port of Spain, Trinité-et-Tobago_info.html
-Guyana.png, Guyana_map.png, Guyana, Georgetown, Guyana_info.html
-Timor_oriental.png, Timor_oriental_map.png, Timor oriental, Dili, Timor_oriental_info.html
-Viêt_Nam.png, Viêt_Nam_map.png, Viêt Nam, Hanoi, Viêt_Nam_info.html
-Uruguay.png, Uruguay_map.png, Uruguay, Montevideo, Uruguay_info.html
-Cité_du_Vatican.png, Cité_du_Vatican_map.png, Cité du Vatican, Vatican City, Cité_du_Vatican_info.html
-Hong_Kong.png, Hong_Kong_map.png, Hong Kong, City of Victoria, Hong_Kong_info.html
-Autriche.png, Autriche_map.png, Autriche, Vienna, Autriche_info.html
-Antigua-et-Barbuda.png, Antigua-et-Barbuda_map.png, Antigua-et-Barbuda, Saint John's, Antigua-et-Barbuda_info.html
-Turkménistan.png, Turkménistan_map.png, Turkménistan, Ashgabat, Turkménistan_info.html
-Mozambique.png, Mozambique_map.png, Mozambique, Maputo, Mozambique_info.html
-Panama.png, Panama_map.png, Panama, Panama City, Panama_info.html
-Micronésie.png, Micronésie_map.png, Micronésie, Palikir, Micronésie_info.html
-Irlande.png, Irlande_map.png, Irlande, Dublin, Irlande_info.html
-Curaçao.png, Curaçao_map.png, Curaçao, Willemstad, Curaçao_info.html
-Guyane.png, Guyane_map.png, Guyane, Cayenne, Guyane_info.html
-Norvège.png, Norvège_map.png, Norvège, Oslo, Norvège_info.html
-Ahvenanmaa.png, Ahvenanmaa_map.png, Ahvenanmaa, Mariehamn, Ahvenanmaa_info.html
-République_centrafricaine.png, République_centrafricaine_map.png, République centrafricaine, Bangui, République_centrafricaine_info.html
-Burkina_Faso.png, Burkina_Faso_map.png, Burkina Faso, Ouagadougou, Burkina_Faso_info.html
-Érythrée.png, Érythrée_map.png, Érythrée, Asmara, Érythrée_info.html
-Tanzanie.png, Tanzanie_map.png, Tanzanie, Dodoma, Tanzanie_info.html
-Corée_du_Sud.png, Corée_du_Sud_map.png, Corée du Sud, Seoul, Corée_du_Sud_info.html
-Jordanie.png, Jordanie_map.png, Jordanie, Amman, Jordanie_info.html
-Mauritanie.png, Mauritanie_map.png, Mauritanie, Nouakchott, Mauritanie_info.html
-Lituanie.png, Lituanie_map.png, Lituanie, Vilnius, Lituanie_info.html
-Îles_mineures_éloignées_des_États-Unis.png, Îles_mineures_éloignées_des_États-Unis_map.png, Îles mineures éloignées des États-Unis, Washington DC, Îles_mineures_éloignées_des_États-Unis_info.html
-Slovaquie.png, Slovaquie_map.png, Slovaquie, Bratislava, Slovaquie_info.html
-Angola.png, Angola_map.png, Angola, Luanda, Angola_info.html
-Kazakhstan.png, Kazakhstan_map.png, Kazakhstan, Nur-Sultan, Kazakhstan_info.html
-Moldavie.png, Moldavie_map.png, Moldavie, Chișinău, Moldavie_info.html
-Mali.png, Mali_map.png, Mali, Bamako, Mali_info.html
-Îles_Malouines.png, Îles_Malouines_map.png, Îles Malouines, Stanley, Îles_Malouines_info.html
-Arménie.png, Arménie_map.png, Arménie, Yerevan, Arménie_info.html
-Samoa.png, Samoa_map.png, Samoa, Apia, Samoa_info.html
-Jersey.png, Jersey_map.png, Jersey, Saint Helier, Jersey_info.html
-Japon.png, Japon_map.png, Japon, Tokyo, Japon_info.html
-Bolivie.png, Bolivie_map.png, Bolivie, Sucre, Bolivie_info.html
-Chili.png, Chili_map.png, Chili, Santiago, Chili_info.html
-États-Unis.png, États-Unis_map.png, États-Unis, Washington, D.C., États-Unis_info.html
-Saint-Vincent-et-les-Grenadines.png, Saint-Vincent-et-les-Grenadines_map.png, Saint-Vincent-et-les-Grenadines, Kingstown, Saint-Vincent-et-les-Grenadines_info.html
-Bermudes.png, Bermudes_map.png, Bermudes, Hamilton, Bermudes_info.html
-Seychelles.png, Seychelles_map.png, Seychelles, Victoria, Seychelles_info.html
-Territoire_britannique_de_l'océan_Indien.png, Territoire_britannique_de_l'océan_Indien_map.png, Territoire britannique de l'océan Indien, Diego Garcia, Territoire_britannique_de_l'océan_Indien_info.html
-Guatemala.png, Guatemala_map.png, Guatemala, Guatemala City, Guatemala_info.html
-Équateur.png, Équateur_map.png, Équateur, Quito, Équateur_info.html
-Martinique.png, Martinique_map.png, Martinique, Fort-de-France, Martinique_info.html
-Tadjikistan.png, Tadjikistan_map.png, Tadjikistan, Dushanbe, Tadjikistan_info.html
-Malte.png, Malte_map.png, Malte, Valletta, Malte_info.html
-Gambie.png, Gambie_map.png, Gambie, Banjul, Gambie_info.html
-Nigéria.png, Nigéria_map.png, Nigéria, Abuja, Nigéria_info.html
-Bahamas.png, Bahamas_map.png, Bahamas, Nassau, Bahamas_info.html
-Kosovo.png, Kosovo_map.png, Kosovo, Pristina, Kosovo_info.html
-Koweït.png, Koweït_map.png, Koweït, Kuwait City, Koweït_info.html
-Maldives.png, Maldives_map.png, Maldives, Malé, Maldives_info.html
-Soudan_du_Sud.png, Soudan_du_Sud_map.png, Soudan du Sud, Juba, Soudan_du_Sud_info.html
-Iran.png, Iran_map.png, Iran, Tehran, Iran_info.html
-Albanie.png, Albanie_map.png, Albanie, Tirana, Albanie_info.html
-Brésil.png, Brésil_map.png, Brésil, Brasília, Brésil_info.html
-Serbie.png, Serbie_map.png, Serbie, Belgrade, Serbie_info.html
-Belize.png, Belize_map.png, Belize, Belmopan, Belize_info.html
-Birmanie.png, Birmanie_map.png, Birmanie, Naypyidaw, Birmanie_info.html
-Bhoutan.png, Bhoutan_map.png, Bhoutan, Thimphu, Bhoutan_info.html
-Venezuela.png, Venezuela_map.png, Venezuela, Caracas, Venezuela_info.html
-Liberia.png, Liberia_map.png, Liberia, Monrovia, Liberia_info.html
-Jamaïque.png, Jamaïque_map.png, Jamaïque, Kingston, Jamaïque_info.html
-Pologne.png, Pologne_map.png, Pologne, Warsaw, Pologne_info.html
-Îles_Caïmans.png, Îles_Caïmans_map.png, Îles Caïmans, George Town, Îles_Caïmans_info.html
-Brunei.png, Brunei_map.png, Brunei, Bandar Seri Begawan, Brunei_info.html
-Comores.png, Comores_map.png, Comores, Moroni, Comores_info.html
-Guam.png, Guam_map.png, Guam, Hagåtña, Guam_info.html
-Tonga.png, Tonga_map.png, Tonga, Nuku'alofa, Tonga_info.html
-Kiribati.png, Kiribati_map.png, Kiribati, South Tarawa, Kiribati_info.html
-Ghana.png, Ghana_map.png, Ghana, Accra, Ghana_info.html
-Tchad.png, Tchad_map.png, Tchad, N'Djamena, Tchad_info.html
-Zimbabwe.png, Zimbabwe_map.png, Zimbabwe, Harare, Zimbabwe_info.html
-Saint-Martin.png, Saint-Martin_map.png, Saint-Martin, Marigot, Saint-Martin_info.html
-Mongolie.png, Mongolie_map.png, Mongolie, Ulan Bator, Mongolie_info.html
-Portugal.png, Portugal_map.png, Portugal, Lisbon, Portugal_info.html
-Samoa_américaines.png, Samoa_américaines_map.png, Samoa américaines, Pago Pago, Samoa_américaines_info.html
-Congo.png, Congo_map.png, Congo, Brazzaville, Congo_info.html
-Belgique.png, Belgique_map.png, Belgique, Brussels, Belgique_info.html
-Nouvelle-Zélande.png, Nouvelle-Zélande_map.png, Nouvelle-Zélande, Wellington, Nouvelle-Zélande_info.html
-Nicaragua.png, Nicaragua_map.png, Nicaragua, Managua, Nicaragua_info.html
-Anguilla.png, Anguilla_map.png, Anguilla, The Valley, Anguilla_info.html
+Géorgie_du_Sud-et-les_Îles_Sandwich_du_Sud.png, Géorgie_du_Sud-et-les_Îles_Sandwich_du_Sud_map.png, Géorgie du Sud-et-les Îles Sandwich du Sud, King Edward Point, Antarctique, Géorgie_du_Sud-et-les_Îles_Sandwich_du_Sud_info.html
+Grenade.png, Grenade_map.png, Grenade, St. George's, Amérique, Grenade_info.html
+Suisse.png, Suisse_map.png, Suisse, Bern, Europe, Suisse_info.html
+Sierra_Leone.png, Sierra_Leone_map.png, Sierra Leone, Freetown, Afrique, Sierra_Leone_info.html
+Hongrie.png, Hongrie_map.png, Hongrie, Budapest, Europe, Hongrie_info.html
+Taïwan.png, Taïwan_map.png, Taïwan, Taipei, Asie, Taïwan_info.html
+Wallis-et-Futuna.png, Wallis-et-Futuna_map.png, Wallis-et-Futuna, Mata-Utu, Océanie, Wallis-et-Futuna_info.html
+Barbade.png, Barbade_map.png, Barbade, Bridgetown, Amérique, Barbade_info.html
+Îles_Pitcairn.png, Îles_Pitcairn_map.png, Îles Pitcairn, Adamstown, Océanie, Îles_Pitcairn_info.html
+Côte_d'Ivoire.png, Côte_d'Ivoire_map.png, Côte d'Ivoire, Yamoussoukro, Afrique, Côte_d'Ivoire_info.html
+Tunisie.png, Tunisie_map.png, Tunisie, Tunis, Afrique, Tunisie_info.html
+Italie.png, Italie_map.png, Italie, Rome, Europe, Italie_info.html
+Bénin.png, Bénin_map.png, Bénin, Porto-Novo, Afrique, Bénin_info.html
+Indonésie.png, Indonésie_map.png, Indonésie, Jakarta, Asie, Indonésie_info.html
+Îles_du_Cap-Vert.png, Îles_du_Cap-Vert_map.png, Îles du Cap-Vert, Praia, Afrique, Îles_du_Cap-Vert_info.html
+Saint-Christophe-et-Niévès.png, Saint-Christophe-et-Niévès_map.png, Saint-Christophe-et-Niévès, Basseterre, Amérique, Saint-Christophe-et-Niévès_info.html
+Laos.png, Laos_map.png, Laos, Vientiane, Asie, Laos_info.html
+Pays-Bas_caribéens.png, Pays-Bas_caribéens_map.png, Pays-Bas caribéens, Kralendijk, Amérique, Pays-Bas_caribéens_info.html
+Ouganda.png, Ouganda_map.png, Ouganda, Kampala, Afrique, Ouganda_info.html
+Andorre.png, Andorre_map.png, Andorre, Andorra la Vella, Europe, Andorre_info.html
+Burundi.png, Burundi_map.png, Burundi, Gitega, Afrique, Burundi_info.html
+Afrique_du_Sud.png, Afrique_du_Sud_map.png, Afrique du Sud, Pretoria, Afrique, Afrique_du_Sud_info.html
+France.png, France_map.png, France, Paris, Europe, France_info.html
+Libye.png, Libye_map.png, Libye, Tripoli, Afrique, Libye_info.html
+Mexique.png, Mexique_map.png, Mexique, Mexico City, Amérique, Mexique_info.html
+Gabon.png, Gabon_map.png, Gabon, Libreville, Afrique, Gabon_info.html
+Îles_Mariannes_du_Nord.png, Îles_Mariannes_du_Nord_map.png, Îles Mariannes du Nord, Saipan, Océanie, Îles_Mariannes_du_Nord_info.html
+Macédoine_du_Nord.png, Macédoine_du_Nord_map.png, Macédoine du Nord, Skopje, Europe, Macédoine_du_Nord_info.html
+Chine.png, Chine_map.png, Chine, Beijing, Asie, Chine_info.html
+Yémen.png, Yémen_map.png, Yémen, Sana'a, Asie, Yémen_info.html
+Saint-Barthélemy.png, Saint-Barthélemy_map.png, Saint-Barthélemy, Gustavia, Amérique, Saint-Barthélemy_info.html
+Guernesey.png, Guernesey_map.png, Guernesey, St. Peter Port, Europe, Guernesey_info.html
+Îles_Salomon.png, Îles_Salomon_map.png, Îles Salomon, Honiara, Océanie, Îles_Salomon_info.html
+Svalbard_et_Jan_Mayen.png, Svalbard_et_Jan_Mayen_map.png, Svalbard et Jan Mayen, Longyearbyen, Europe, Svalbard_et_Jan_Mayen_info.html
+Îles_Féroé.png, Îles_Féroé_map.png, Îles Féroé, Tórshavn, Europe, Îles_Féroé_info.html
+Ouzbékistan.png, Ouzbékistan_map.png, Ouzbékistan, Tashkent, Asie, Ouzbékistan_info.html
+Égypte.png, Égypte_map.png, Égypte, Cairo, Afrique, Égypte_info.html
+Sénégal.png, Sénégal_map.png, Sénégal, Dakar, Afrique, Sénégal_info.html
+Sri_Lanka.png, Sri_Lanka_map.png, Sri Lanka, Sri Jayawardenepura Kotte, Asie, Sri_Lanka_info.html
+Palestine.png, Palestine_map.png, Palestine, Ramallah, Asie, Palestine_info.html
+Bangladesh.png, Bangladesh_map.png, Bangladesh, Dhaka, Asie, Bangladesh_info.html
+Pérou.png, Pérou_map.png, Pérou, Lima, Amérique, Pérou_info.html
+Singapour.png, Singapour_map.png, Singapour, Singapore, Asie, Singapour_info.html
+Turquie.png, Turquie_map.png, Turquie, Ankara, Inconnu, Turquie_info.html
+Afghanistan.png, Afghanistan_map.png, Afghanistan, Kabul, Asie, Afghanistan_info.html
+Aruba.png, Aruba_map.png, Aruba, Oranjestad, Amérique, Aruba_info.html
+Îles_Cook.png, Îles_Cook_map.png, Îles Cook, Avarua, Océanie, Îles_Cook_info.html
+Royaume-Uni.png, Royaume-Uni_map.png, Royaume-Uni, London, Europe, Royaume-Uni_info.html
+Zambie.png, Zambie_map.png, Zambie, Lusaka, Afrique, Zambie_info.html
+Finlande.png, Finlande_map.png, Finlande, Helsinki, Europe, Finlande_info.html
+Niger.png, Niger_map.png, Niger, Niamey, Afrique, Niger_info.html
+Île_Christmas.png, Île_Christmas_map.png, Île Christmas, Flying Fish Cove, Asie, Île_Christmas_info.html
+Tokelau.png, Tokelau_map.png, Tokelau, Fakaofo, Océanie, Tokelau_info.html
+Guinée-Bissau.png, Guinée-Bissau_map.png, Guinée-Bissau, Bissau, Afrique, Guinée-Bissau_info.html
+Azerbaïdjan.png, Azerbaïdjan_map.png, Azerbaïdjan, Baku, Inconnu, Azerbaïdjan_info.html
+Réunion.png, Réunion_map.png, Réunion, Saint-Denis, Afrique, Réunion_info.html
+Djibouti.png, Djibouti_map.png, Djibouti, Djibouti, Afrique, Djibouti_info.html
+Corée_du_Nord.png, Corée_du_Nord_map.png, Corée du Nord, Pyongyang, Asie, Corée_du_Nord_info.html
+Île_Maurice.png, Île_Maurice_map.png, Île Maurice, Port Louis, Afrique, Île_Maurice_info.html
+Montserrat.png, Montserrat_map.png, Montserrat, Plymouth, Amérique, Montserrat_info.html
+Îles_Vierges_des_États-Unis.png, Îles_Vierges_des_États-Unis_map.png, Îles Vierges des États-Unis, Charlotte Amalie, Amérique, Îles_Vierges_des_États-Unis_info.html
+Colombie.png, Colombie_map.png, Colombie, Bogotá, Amérique, Colombie_info.html
+Grèce.png, Grèce_map.png, Grèce, Athens, Europe, Grèce_info.html
+Croatie.png, Croatie_map.png, Croatie, Zagreb, Europe, Croatie_info.html
+Maroc.png, Maroc_map.png, Maroc, Rabat, Afrique, Maroc_info.html
+Algérie.png, Algérie_map.png, Algérie, Algiers, Afrique, Algérie_info.html
+Antarctique.png, Antarctique_map.png, Antarctique, Inconnue, Antarctique, Antarctique_info.html
+Pays-Bas.png, Pays-Bas_map.png, Pays-Bas, Amsterdam, Amérique, Pays-Bas_info.html
+Soudan.png, Soudan_map.png, Soudan, Khartoum, Afrique, Soudan_info.html
+Fidji.png, Fidji_map.png, Fidji, Suva, Océanie, Fidji_info.html
+Liechtenstein.png, Liechtenstein_map.png, Liechtenstein, Vaduz, Europe, Liechtenstein_info.html
+Népal.png, Népal_map.png, Népal, Kathmandu, Asie, Népal_info.html
+Porto_Rico.png, Porto_Rico_map.png, Porto Rico, San Juan, Amérique, Porto_Rico_info.html
+Géorgie.png, Géorgie_map.png, Géorgie, Tbilisi, Antarctique, Géorgie_info.html
+Pakistan.png, Pakistan_map.png, Pakistan, Islamabad, Asie, Pakistan_info.html
+Monaco.png, Monaco_map.png, Monaco, Monaco, Europe, Monaco_info.html
+Botswana.png, Botswana_map.png, Botswana, Gaborone, Afrique, Botswana_info.html
+Liban.png, Liban_map.png, Liban, Beirut, Asie, Liban_info.html
+Papouasie-Nouvelle-Guinée.png, Papouasie-Nouvelle-Guinée_map.png, Papouasie-Nouvelle-Guinée, Port Moresby, Océanie, Papouasie-Nouvelle-Guinée_info.html
+Mayotte.png, Mayotte_map.png, Mayotte, Mamoudzou, Afrique, Mayotte_info.html
+République_dominicaine.png, République_dominicaine_map.png, République dominicaine, Santo Domingo, Amérique, République_dominicaine_info.html
+Île_Norfolk.png, Île_Norfolk_map.png, Île Norfolk, Kingston, Océanie, Île_Norfolk_info.html
+Île_Bouvet.png, Île_Bouvet_map.png, Île Bouvet, Inconnue, Antarctique, Île_Bouvet_info.html
+Qatar.png, Qatar_map.png, Qatar, Doha, Asie, Qatar_info.html
+Madagascar.png, Madagascar_map.png, Madagascar, Antananarivo, Afrique, Madagascar_info.html
+Inde.png, Inde_map.png, Inde, New Delhi, Asie, Inde_info.html
+Syrie.png, Syrie_map.png, Syrie, Damascus, Asie, Syrie_info.html
+Monténégro.png, Monténégro_map.png, Monténégro, Podgorica, Europe, Monténégro_info.html
+Swaziland.png, Swaziland_map.png, Swaziland, Mbabane, Afrique, Swaziland_info.html
+Paraguay.png, Paraguay_map.png, Paraguay, Asunción, Amérique, Paraguay_info.html
+Salvador.png, Salvador_map.png, Salvador, San Salvador, Amérique, Salvador_info.html
+Ukraine.png, Ukraine_map.png, Ukraine, Kyiv, Europe, Ukraine_info.html
+Île_de_Man.png, Île_de_Man_map.png, Île de Man, Douglas, Europe, Île_de_Man_info.html
+Namibie.png, Namibie_map.png, Namibie, Windhoek, Afrique, Namibie_info.html
+Émirats_arabes_unis.png, Émirats_arabes_unis_map.png, Émirats arabes unis, Abu Dhabi, Asie, Émirats_arabes_unis_info.html
+Bulgarie.png, Bulgarie_map.png, Bulgarie, Sofia, Europe, Bulgarie_info.html
+Groenland.png, Groenland_map.png, Groenland, Nuuk, Amérique, Groenland_info.html
+Allemagne.png, Allemagne_map.png, Allemagne, Berlin, Europe, Allemagne_info.html
+Cambodge.png, Cambodge_map.png, Cambodge, Phnom Penh, Asie, Cambodge_info.html
+Irak.png, Irak_map.png, Irak, Baghdad, Asie, Irak_info.html
+Terres_australes_et_antarctiques_françaises.png, Terres_australes_et_antarctiques_françaises_map.png, Terres australes et antarctiques françaises, Port-aux-Français, Antarctique, Terres_australes_et_antarctiques_françaises_info.html
+Suède.png, Suède_map.png, Suède, Stockholm, Europe, Suède_info.html
+Cuba.png, Cuba_map.png, Cuba, Havana, Amérique, Cuba_info.html
+Kirghizistan.png, Kirghizistan_map.png, Kirghizistan, Bishkek, Asie, Kirghizistan_info.html
+Russie.png, Russie_map.png, Russie, Moscow, Inconnu, Russie_info.html
+Malaisie.png, Malaisie_map.png, Malaisie, Kuala Lumpur, Asie, Malaisie_info.html
+São_Tomé_et_Príncipe.png, São_Tomé_et_Príncipe_map.png, São Tomé et Príncipe, São Tomé, Afrique, São_Tomé_et_Príncipe_info.html
+Chypre.png, Chypre_map.png, Chypre, Nicosia, Europe, Chypre_info.html
+Canada.png, Canada_map.png, Canada, Ottawa, Amérique, Canada_info.html
+Malawi.png, Malawi_map.png, Malawi, Lilongwe, Afrique, Malawi_info.html
+Arabie_Saoudite.png, Arabie_Saoudite_map.png, Arabie Saoudite, Riyadh, Asie, Arabie_Saoudite_info.html
+Bosnie-Herzégovine.png, Bosnie-Herzégovine_map.png, Bosnie-Herzégovine, Sarajevo, Europe, Bosnie-Herzégovine_info.html
+Éthiopie.png, Éthiopie_map.png, Éthiopie, Addis Ababa, Afrique, Éthiopie_info.html
+Espagne.png, Espagne_map.png, Espagne, Madrid, Europe, Espagne_info.html
+Slovénie.png, Slovénie_map.png, Slovénie, Ljubljana, Europe, Slovénie_info.html
+Oman.png, Oman_map.png, Oman, Muscat, Asie, Oman_info.html
+Saint-Pierre-et-Miquelon.png, Saint-Pierre-et-Miquelon_map.png, Saint-Pierre-et-Miquelon, Saint-Pierre, Amérique, Saint-Pierre-et-Miquelon_info.html
+Macao.png, Macao_map.png, Macao, Inconnue, Asie, Macao_info.html
+Saint-Marin.png, Saint-Marin_map.png, Saint-Marin, City of San Marino, Europe, Saint-Marin_info.html
+Lesotho.png, Lesotho_map.png, Lesotho, Maseru, Afrique, Lesotho_info.html
+Îles_Marshall.png, Îles_Marshall_map.png, Îles Marshall, Majuro, Océanie, Îles_Marshall_info.html
+Saint-Martin.png, Saint-Martin_map.png, Saint-Martin, Philipsburg, Amérique, Saint-Martin_info.html
+Islande.png, Islande_map.png, Islande, Reykjavik, Europe, Islande_info.html
+Luxembourg.png, Luxembourg_map.png, Luxembourg, Luxembourg, Europe, Luxembourg_info.html
+Argentine.png, Argentine_map.png, Argentine, Buenos Aires, Amérique, Argentine_info.html
+Îles_Turques-et-Caïques.png, Îles_Turques-et-Caïques_map.png, Îles Turques-et-Caïques, Cockburn Town, Amérique, Îles_Turques-et-Caïques_info.html
+Nauru.png, Nauru_map.png, Nauru, Yaren, Océanie, Nauru_info.html
+Îles_Cocos.png, Îles_Cocos_map.png, Îles Cocos, West Island, Asie, Îles_Cocos_info.html
+Sahara_Occidental.png, Sahara_Occidental_map.png, Sahara Occidental, El Aaiún, Afrique, Sahara_Occidental_info.html
+Dominique.png, Dominique_map.png, Dominique, Roseau, Amérique, Dominique_info.html
+Costa_Rica.png, Costa_Rica_map.png, Costa Rica, San José, Amérique, Costa_Rica_info.html
+Australie.png, Australie_map.png, Australie, Canberra, Océanie, Australie_info.html
+Thaïlande.png, Thaïlande_map.png, Thaïlande, Bangkok, Asie, Thaïlande_info.html
+Haïti.png, Haïti_map.png, Haïti, Port-au-Prince, Amérique, Haïti_info.html
+Tuvalu.png, Tuvalu_map.png, Tuvalu, Funafuti, Océanie, Tuvalu_info.html
+Honduras.png, Honduras_map.png, Honduras, Tegucigalpa, Amérique, Honduras_info.html
+Guinée_équatoriale.png, Guinée_équatoriale_map.png, Guinée équatoriale, Malabo, Afrique, Guinée_équatoriale_info.html
+Sainte-Lucie.png, Sainte-Lucie_map.png, Sainte-Lucie, Castries, Amérique, Sainte-Lucie_info.html
+Polynésie_française.png, Polynésie_française_map.png, Polynésie française, Papeetē, Océanie, Polynésie_française_info.html
+Biélorussie.png, Biélorussie_map.png, Biélorussie, Minsk, Europe, Biélorussie_info.html
+Lettonie.png, Lettonie_map.png, Lettonie, Riga, Europe, Lettonie_info.html
+Palaos_(Palau).png, Palaos_(Palau)_map.png, Palaos (Palau), Ngerulmud, Océanie, Palaos_(Palau)_info.html
+Guadeloupe.png, Guadeloupe_map.png, Guadeloupe, Basse-Terre, Amérique, Guadeloupe_info.html
+Philippines.png, Philippines_map.png, Philippines, Manila, Asie, Philippines_info.html
+Gibraltar.png, Gibraltar_map.png, Gibraltar, Gibraltar, Europe, Gibraltar_info.html
+Danemark.png, Danemark_map.png, Danemark, Copenhagen, Europe, Danemark_info.html
+Cameroun.png, Cameroun_map.png, Cameroun, Yaoundé, Afrique, Cameroun_info.html
+Guinée.png, Guinée_map.png, Guinée, Conakry, Afrique, Guinée_info.html
+Bahreïn.png, Bahreïn_map.png, Bahreïn, Manama, Asie, Bahreïn_info.html
+Surinam.png, Surinam_map.png, Surinam, Paramaribo, Amérique, Surinam_info.html
+Congo_(Rép._dém.).png, Congo_(Rép._dém.)_map.png, Congo (Rép. dém.), Kinshasa, Afrique, Congo_(Rép._dém.)_info.html
+Somalie.png, Somalie_map.png, Somalie, Mogadishu, Afrique, Somalie_info.html
+Tchéquie.png, Tchéquie_map.png, Tchéquie, Prague, Europe, Tchéquie_info.html
+Nouvelle-Calédonie.png, Nouvelle-Calédonie_map.png, Nouvelle-Calédonie, Nouméa, Océanie, Nouvelle-Calédonie_info.html
+Vanuatu.png, Vanuatu_map.png, Vanuatu, Port Vila, Océanie, Vanuatu_info.html
+Sainte-Hélène,_Ascension_et_Tristan_da_Cunha.png, Sainte-Hélène,_Ascension_et_Tristan_da_Cunha_map.png, Sainte-Hélène, Ascension et Tristan da Cunha, Jamestown, Afrique, Sainte-Hélène_info.html
+Togo.png, Togo_map.png, Togo, Lomé, Afrique, Togo_info.html
+Îles_Vierges_britanniques.png, Îles_Vierges_britanniques_map.png, Îles Vierges britanniques, Road Town, Amérique, Îles_Vierges_britanniques_info.html
+Kenya.png, Kenya_map.png, Kenya, Nairobi, Afrique, Kenya_info.html
+Niue.png, Niue_map.png, Niue, Alofi, Océanie, Niue_info.html
+Îles_Heard-et-MacDonald.png, Îles_Heard-et-MacDonald_map.png, Îles Heard-et-MacDonald, Inconnue, Antarctique, Îles_Heard-et-MacDonald_info.html
+Rwanda.png, Rwanda_map.png, Rwanda, Kigali, Afrique, Rwanda_info.html
+Estonie.png, Estonie_map.png, Estonie, Tallinn, Europe, Estonie_info.html
+Roumanie.png, Roumanie_map.png, Roumanie, Bucharest, Europe, Roumanie_info.html
+Trinité-et-Tobago.png, Trinité-et-Tobago_map.png, Trinité-et-Tobago, Port of Spain, Amérique, Trinité-et-Tobago_info.html
+Guyana.png, Guyana_map.png, Guyana, Georgetown, Amérique, Guyana_info.html
+Timor_oriental.png, Timor_oriental_map.png, Timor oriental, Dili, Océanie, Timor_oriental_info.html
+Viêt_Nam.png, Viêt_Nam_map.png, Viêt Nam, Hanoi, Asie, Viêt_Nam_info.html
+Uruguay.png, Uruguay_map.png, Uruguay, Montevideo, Amérique, Uruguay_info.html
+Cité_du_Vatican.png, Cité_du_Vatican_map.png, Cité du Vatican, Vatican City, Europe, Cité_du_Vatican_info.html
+Hong_Kong.png, Hong_Kong_map.png, Hong Kong, City of Victoria, Asie, Hong_Kong_info.html
+Autriche.png, Autriche_map.png, Autriche, Vienna, Europe, Autriche_info.html
+Antigua-et-Barbuda.png, Antigua-et-Barbuda_map.png, Antigua-et-Barbuda, Saint John's, Amérique, Antigua-et-Barbuda_info.html
+Turkménistan.png, Turkménistan_map.png, Turkménistan, Ashgabat, Asie, Turkménistan_info.html
+Mozambique.png, Mozambique_map.png, Mozambique, Maputo, Afrique, Mozambique_info.html
+Panama.png, Panama_map.png, Panama, Panama City, Amérique, Panama_info.html
+Micronésie.png, Micronésie_map.png, Micronésie, Palikir, Océanie, Micronésie_info.html
+Irlande.png, Irlande_map.png, Irlande, Dublin, Europe, Irlande_info.html
+Curaçao.png, Curaçao_map.png, Curaçao, Willemstad, Amérique, Curaçao_info.html
+Guyane.png, Guyane_map.png, Guyane, Cayenne, Amérique, Guyane_info.html
+Norvège.png, Norvège_map.png, Norvège, Oslo, Europe, Norvège_info.html
+Ahvenanmaa.png, Ahvenanmaa_map.png, Ahvenanmaa, Mariehamn, Europe, Ahvenanmaa_info.html
+République_centrafricaine.png, République_centrafricaine_map.png, République centrafricaine, Bangui, Afrique, République_centrafricaine_info.html
+Burkina_Faso.png, Burkina_Faso_map.png, Burkina Faso, Ouagadougou, Afrique, Burkina_Faso_info.html
+Érythrée.png, Érythrée_map.png, Érythrée, Asmara, Afrique, Érythrée_info.html
+Tanzanie.png, Tanzanie_map.png, Tanzanie, Dodoma, Afrique, Tanzanie_info.html
+Corée_du_Sud.png, Corée_du_Sud_map.png, Corée du Sud, Seoul, Asie, Corée_du_Sud_info.html
+Jordanie.png, Jordanie_map.png, Jordanie, Amman, Asie, Jordanie_info.html
+Mauritanie.png, Mauritanie_map.png, Mauritanie, Nouakchott, Afrique, Mauritanie_info.html
+Lituanie.png, Lituanie_map.png, Lituanie, Vilnius, Europe, Lituanie_info.html
+Îles_mineures_éloignées_des_États-Unis.png, Îles_mineures_éloignées_des_États-Unis_map.png, Îles mineures éloignées des États-Unis, Washington DC, Océanie, Îles_mineures_éloignées_des_États-Unis_info.html
+Slovaquie.png, Slovaquie_map.png, Slovaquie, Bratislava, Europe, Slovaquie_info.html
+Angola.png, Angola_map.png, Angola, Luanda, Afrique, Angola_info.html
+Kazakhstan.png, Kazakhstan_map.png, Kazakhstan, Nur-Sultan, Asie, Kazakhstan_info.html
+Moldavie.png, Moldavie_map.png, Moldavie, Chișinău, Europe, Moldavie_info.html
+Mali.png, Mali_map.png, Mali, Bamako, Afrique, Mali_info.html
+Îles_Malouines.png, Îles_Malouines_map.png, Îles Malouines, Stanley, Amérique, Îles_Malouines_info.html
+Arménie.png, Arménie_map.png, Arménie, Yerevan, Asie, Arménie_info.html
+Samoa.png, Samoa_map.png, Samoa, Apia, Océanie, Samoa_info.html
+Jersey.png, Jersey_map.png, Jersey, Saint Helier, Europe, Jersey_info.html
+Japon.png, Japon_map.png, Japon, Tokyo, Asie, Japon_info.html
+Bolivie.png, Bolivie_map.png, Bolivie, Sucre, Amérique, Bolivie_info.html
+Chili.png, Chili_map.png, Chili, Santiago, Amérique, Chili_info.html
+États-Unis.png, États-Unis_map.png, États-Unis, Washington, D.C., Amérique, États-Unis_info.html
+Saint-Vincent-et-les-Grenadines.png, Saint-Vincent-et-les-Grenadines_map.png, Saint-Vincent-et-les-Grenadines, Kingstown, Amérique, Saint-Vincent-et-les-Grenadines_info.html
+Bermudes.png, Bermudes_map.png, Bermudes, Hamilton, Amérique, Bermudes_info.html
+Seychelles.png, Seychelles_map.png, Seychelles, Victoria, Afrique, Seychelles_info.html
+Territoire_britannique_de_l'océan_Indien.png, Territoire_britannique_de_l'océan_Indien_map.png, Territoire britannique de l'océan Indien, Diego Garcia, Asie, Territoire_britannique_de_l'océan_Indien_info.html
+Guatemala.png, Guatemala_map.png, Guatemala, Guatemala City, Amérique, Guatemala_info.html
+Équateur.png, Équateur_map.png, Équateur, Quito, Amérique, Équateur_info.html
+Martinique.png, Martinique_map.png, Martinique, Fort-de-France, Amérique, Martinique_info.html
+Tadjikistan.png, Tadjikistan_map.png, Tadjikistan, Dushanbe, Asie, Tadjikistan_info.html
+Malte.png, Malte_map.png, Malte, Valletta, Europe, Malte_info.html
+Gambie.png, Gambie_map.png, Gambie, Banjul, Afrique, Gambie_info.html
+Nigéria.png, Nigéria_map.png, Nigéria, Abuja, Afrique, Nigéria_info.html
+Bahamas.png, Bahamas_map.png, Bahamas, Nassau, Amérique, Bahamas_info.html
+Kosovo.png, Kosovo_map.png, Kosovo, Pristina, Europe, Kosovo_info.html
+Koweït.png, Koweït_map.png, Koweït, Kuwait City, Asie, Koweït_info.html
+Maldives.png, Maldives_map.png, Maldives, Malé, Asie, Maldives_info.html
+Soudan_du_Sud.png, Soudan_du_Sud_map.png, Soudan du Sud, Juba, Afrique, Soudan_du_Sud_info.html
+Iran.png, Iran_map.png, Iran, Tehran, Asie, Iran_info.html
+Albanie.png, Albanie_map.png, Albanie, Tirana, Europe, Albanie_info.html
+Brésil.png, Brésil_map.png, Brésil, Brasília, Amérique, Brésil_info.html
+Serbie.png, Serbie_map.png, Serbie, Belgrade, Europe, Serbie_info.html
+Belize.png, Belize_map.png, Belize, Belmopan, Amérique, Belize_info.html
+Birmanie.png, Birmanie_map.png, Birmanie, Naypyidaw, Asie, Birmanie_info.html
+Bhoutan.png, Bhoutan_map.png, Bhoutan, Thimphu, Asie, Bhoutan_info.html
+Venezuela.png, Venezuela_map.png, Venezuela, Caracas, Amérique, Venezuela_info.html
+Liberia.png, Liberia_map.png, Liberia, Monrovia, Afrique, Liberia_info.html
+Jamaïque.png, Jamaïque_map.png, Jamaïque, Kingston, Amérique, Jamaïque_info.html
+Pologne.png, Pologne_map.png, Pologne, Warsaw, Europe, Pologne_info.html
+Îles_Caïmans.png, Îles_Caïmans_map.png, Îles Caïmans, George Town, Amérique, Îles_Caïmans_info.html
+Brunei.png, Brunei_map.png, Brunei, Bandar Seri Begawan, Asie, Brunei_info.html
+Comores.png, Comores_map.png, Comores, Moroni, Afrique, Comores_info.html
+Guam.png, Guam_map.png, Guam, Hagåtña, Océanie, Guam_info.html
+Tonga.png, Tonga_map.png, Tonga, Nuku'alofa, Océanie, Tonga_info.html
+Kiribati.png, Kiribati_map.png, Kiribati, South Tarawa, Océanie, Kiribati_info.html
+Ghana.png, Ghana_map.png, Ghana, Accra, Afrique, Ghana_info.html
+Tchad.png, Tchad_map.png, Tchad, N'Djamena, Afrique, Tchad_info.html
+Zimbabwe.png, Zimbabwe_map.png, Zimbabwe, Harare, Afrique, Zimbabwe_info.html
+Saint-Martin.png, Saint-Martin_map.png, Saint-Martin, Marigot, Amérique, Saint-Martin_info.html
+Mongolie.png, Mongolie_map.png, Mongolie, Ulan Bator, Asie, Mongolie_info.html
+Portugal.png, Portugal_map.png, Portugal, Lisbon, Europe, Portugal_info.html
+Samoa_américaines.png, Samoa_américaines_map.png, Samoa américaines, Pago Pago, Océanie, Samoa_américaines_info.html
+Congo.png, Congo_map.png, Congo, Brazzaville, Afrique, Congo_info.html
+Belgique.png, Belgique_map.png, Belgique, Brussels, Europe, Belgique_info.html
+Nouvelle-Zélande.png, Nouvelle-Zélande_map.png, Nouvelle-Zélande, Wellington, Océanie, Nouvelle-Zélande_info.html
+Nicaragua.png, Nicaragua_map.png, Nicaragua, Managua, Amérique, Nicaragua_info.html
+Anguilla.png, Anguilla_map.png, Anguilla, The Valley, Amérique, Anguilla_info.html

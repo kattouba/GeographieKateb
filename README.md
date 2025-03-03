@@ -1,8 +1,12 @@
+Très bien ! Nous allons mettre à jour le fichier `README.md` pour inclure les informations sur la nouvelle fonctionnalité de classement via l'API PHP hébergée sur `http://studiokatebetpapa.mooo.com`. Voici la version mise à jour du fichier :
+
+---
+
 # Géographie de Kateb
 
 ## Description
 
-**Géographie de Kateb** est un jeu interactif éducatif visant à aider les joueurs à améliorer leurs connaissances en géographie. Le jeu met au défi les joueurs d'identifier des pays à partir de leurs drapeaux, puis de deviner leurs capitales.
+**Géographie de Kateb** est un jeu interactif éducatif visant à aider les joueurs à améliorer leurs connaissances en géographie. Le jeu met au défi les joueurs d'identifier des pays à partir de leurs drapeaux, puis de deviner leurs capitales. Une nouvelle fonctionnalité permet également de sélectionner un continent spécifique pour personnaliser l'expérience de jeu.
 
 Ce projet est développé en Python en utilisant le framework [BeeWare](https://beeware.org/) pour déployer l'application sur Android. Il exploite également la bibliothèque [Toga](https://toga.readthedocs.io/en/latest/) pour l'interface graphique et des ressources multimédias pour enrichir l'expérience de jeu.
 
@@ -24,12 +28,16 @@ Le projet final est une application fluide et intuitive qui invite les utilisate
 - **Prototypage Python** : Construire un modèle fonctionnel sur ordinateur.
 - **Portage sur Android avec BeeWare** : Utiliser Briefcase pour générer l’APK.
 - **Tests intensifs** : Régler les bugs et améliorer l’interface.
+- **Ajout de la sélection des continents** : Permettre aux joueurs de choisir un continent ou de jouer sur le monde entier.
+- **Intégration du classement en ligne** : Utilisation d'une API PHP pour enregistrer et afficher les scores des joueurs.
 
 ## Fonctionnalités principales
 
 - **Apprentissage par les drapeaux et les cartes** : Identifiez les pays à partir de leurs drapeaux et explorez leurs cartes.
+- **Sélection des continents** : Choisissez un continent spécifique (Afrique, Amérique, Asie, Europe, Océanie, Antarctique) ou jouez sur le monde entier.
 - **Informations complètes** : Obtenez des détails sur la superficie, la population, la monnaie et plus encore.
 - **Scores interactifs** : Suivez vos résultats et progressez à chaque partie.
+- **Classement en ligne** : Comparez vos scores avec ceux des autres joueurs via une API PHP hébergée sur `http://studiokatebetpapa.mooo.com`.
 
 ## Installation
 
@@ -40,7 +48,7 @@ Avant d'exécuter le jeu, assurez-vous d'avoir :
 - **Python 3.8+** installé sur votre machine
 - Les bibliothèques suivantes installées :
   ```sh
-  pip install  briefcase
+  pip install briefcase toga
   ```
 
 ### Clôner le projet
@@ -48,12 +56,11 @@ Avant d'exécuter le jeu, assurez-vous d'avoir :
 Vous pouvez également retrouver le code source sur GitHub : [GitHub - Géographie de Kateb](https://github.com/kattouba/GeographieKateb)
 
 ```sh
-https://github.com/kattouba/GeographieKateb
+git clone https://github.com/kattouba/GeographieKateb
 cd GeographieKateb
 ```
 
 ## Exécution du jeu
-
 
 Pour générer et exécuter l'application sur Android :
 
@@ -81,14 +88,25 @@ GeographieKateb/
 Le fichier `resources/countries_data.txt` contient les informations sur les pays sous le format suivant :
 
 ```
-flag_image, map_image, country_name, capital_name, info_file
+flag_image, map_image, country_name, capital_name, continent, info_file
 ```
 
 Exemple :
 
 ```
-france.png, france_map.png, France, Paris, france_info.html
+france.png, france_map.png, France, Paris, Europe, france_info.html
 ```
+
+## Classement en ligne
+
+Le jeu utilise une API PHP hébergée sur `http://studiokatebetpapa.mooo.com` pour enregistrer et afficher les scores des joueurs. Voici comment cela fonctionne :
+
+1. **Envoi du score** : À la fin de chaque partie, le score du joueur est envoyé à l'API.
+2. **Récupération du classement** : Le classement des meilleurs scores est récupéré et affiché dans l'application.
+
+### Points d'API utilisés :
+- **Ajouter un score** : `POST /Geographie/api/add_score.php`
+- **Récupérer le classement** : `GET /Geographie/api/get_scores.php`
 
 ## Téléchargement
 
@@ -96,22 +114,24 @@ Découvrez et jouez à **Géographie de Kateb** dès maintenant sur notre site o
 
 [Visitez le site du jeu](https://studiokatebetpapa.rf.gd/nos-jeux/geographie-de-kateb/)
 
-[Télécharger l’APK ici](https://mega.nz/file/lW00nRqZ#Z7doCt4Lf7dExuNpt8e_iDXJWTTzNEVIbO3Cguf51r4) Découvrez et jouez à **Géographie de Kateb** dès maintenant !
-
+[Télécharger l’APK ici](https://mega.nz/folder/AfVRgToC#sgvyEuivjvNf02A_6bD8KA)
 
 ## Pourquoi jouer à Géographie de Kateb ?
 
 - **Éducatif** : Apprenez des faits fascinants sur chaque pays.
+- **Personnalisable** : Choisissez un continent ou jouez sur le monde entier.
 - **Amusant** : Un moyen interactif d’explorer le monde.
 - **Accessible** : Interface intuitive et adaptée aux enfants et adultes.
+- **Compétitif** : Comparez vos scores avec ceux des autres joueurs via le classement en ligne.
 
 ## Ce qui est prévu pour l’avenir
 
 Nous avons de grandes ambitions pour **Géographie de Kateb**. Voici ce qui est en préparation :
 
 - **Modes avancés** : Augmentation des difficultés et nouveaux types de questions.
-- **Classements** : Comparez vos scores avec vos amis.
+- **Expansion des continents** : Ajouter des régions spécifiques (par exemple, Amérique du Nord, Amérique du Sud).
 - **Personnalisation** : Ajoutez vos propres thèmes ou questions.
+- **Amélioration du classement** : Ajouter des fonctionnalités sociales (amis, défis, etc.).
 
 ## Rejoignez-nous
 
@@ -119,3 +139,18 @@ Nous sommes ravis de partager cette aventure avec vous. Vos retours et idées so
 
 ### Contactez-nous
 
+Pour toute question, suggestion ou collaboration, n'hésitez pas à nous contacter :
+- **Email** : contact@studiokatebetpapa.com
+- **Site web** : [https://studiokatebetpapa.rf.gd](https://studiokatebetpapa.rf.gd)
+
+---
+
+### Notes sur les mises à jour
+- **Classement en ligne** : Une nouvelle fonctionnalité permet aux joueurs de comparer leurs scores avec ceux des autres via une API PHP.
+- **Sélection des continents** : Les joueurs peuvent choisir un continent spécifique ou jouer sur le monde entier.
+- **Correction des continents** : Les continents "Inconnu" ont été corrigés dans le fichier `countries_data.txt`.
+- **Amélioration de l'interface** : L'interface a été optimisée pour une meilleure expérience utilisateur.
+
+---
+
+Avec ces mises à jour, **Géographie de Kateb** devient encore plus éducatif, amusant et compétitif. Téléchargez-le dès maintenant et explorez le monde tout en défiant vos amis ! 🌍

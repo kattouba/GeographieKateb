@@ -1,5 +1,3 @@
-Très bien ! Nous allons mettre à jour le fichier `README.md` pour inclure les informations sur la nouvelle fonctionnalité de classement via l'API PHP hébergée sur `http://studiokatebetpapa.mooo.com`. Voici la version mise à jour du fichier :
-
 ---
 
 # Géographie de Kateb

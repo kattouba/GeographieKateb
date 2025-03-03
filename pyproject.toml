@@ -2,7 +2,7 @@
 [tool.briefcase]
 project_name = "Géographie de Kateb"
 bundle = "com.example"
-version = "0.0.1"
+version = "0.0.2"
 url = "https://studiokatebetpapa.rf.gd/nos-jeux/geographie-de-kateb/"
 license.file = "LICENSE"
 author = "Studio KATEB & Papa"
